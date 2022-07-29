@@ -1,2 +1,2 @@
-from Free import menu
+import Free
 menu()
