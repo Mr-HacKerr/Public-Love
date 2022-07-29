@@ -1,2 +1,5 @@
-import Free
-menu()
+import os
+if __name__=='__main__':
+	os.system('git pull')
+	folder()
+	menu()
