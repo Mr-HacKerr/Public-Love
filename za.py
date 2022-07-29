@@ -1,2 +1,2 @@
-from KK import menu
+from  import menu
 menu()
