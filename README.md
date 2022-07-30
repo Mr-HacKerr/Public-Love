@@ -1,7 +1,7 @@
 <!-- Mrphisher -->
 
 <p align="center">
-  <img src=".imgs/logo.png">
+  <img src=".imgs/logo.jpg">
 </p>
 
 <p align="center">
