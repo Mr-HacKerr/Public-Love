@@ -48,6 +48,5 @@ $ python Run.py
 <p align="left">
   <a href="https://github.com/Mr-HacKerr" target="_blank"><img src="https://img.shields.io/badge/Github-Mr--HacKerr-green?style=for-the-badge&logo=github"></a>
   <a href="https://www.facebook.com/profile.php?id=100000098645074" target="_blank"><img src="https://img.shields.io/badge/FB-%40M.Zain-red?style=for-the-badge&logo=facebook"></a>
-  <a href="https://m.me/100065021172001" target="_blank"><img src="https://img.shields.io/badge/Chat-Messenger-blue?style=for-the-badge&logo=messenger"></a>
 </p>
 
