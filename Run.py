@@ -44,7 +44,7 @@ def za():
     print("[4] File Making Menu")
     print("[5] Just Cloning Tool")
     print("[6] Exit Program")
-    zain = input("Choose What You Want")
+    zain = input("Choose What You Want: ")
     if zain=='1':
     	os.system('python File.py')
     elif zain=='2':
