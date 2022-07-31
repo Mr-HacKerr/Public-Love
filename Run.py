@@ -25,7 +25,7 @@ def Update():
     print('[2] Phishing ')
     print('[3] Encrypt Your Script')
     print('[4] Contact With Creater')
-    zain = input("\033[1;93mChoose What you want: ")
+    zain = input("\033[1;93mChoose What you want:  ")
     if zain=='1':
     	za()
     elif zain=='2':
@@ -57,7 +57,7 @@ def za():
     elif zain=='6':
     	exit.sys()
     elif zain=='3':
-        os.system("python2 H.py")
+        os.system("python2 Hide-me.py")
     else:
     	print("Dear Please Choose Correctly")
     Update()
