@@ -41,20 +41,23 @@ def za():
     print("[1] File Cloning")
     print("[2] Number Cloning")
     print("[3] File Making Menu")
-    print("[4] Just Cloning Tool")
-    print("[5] Exit Program")
+    print("[4] Encrypt Your Script")
+    print("[5] Just Cloning Tool")
+    print("[6] Exit Program")
     zain = input("Choose What You Want")
     if zain=='1':
     	os.system('python File.py')
     elif zain=='2':
         os.system('python Num.py')	
-    elif zain=='3':
+    elif zain=='4':
     	print('This option is in under construction')
     	print('Dear Brother/Sister please Wait Untill this option was replace')
-    elif zain=='4':
-    	os.system('python Free.py')
     elif zain=='5':
+    	os.system('python Free.py')
+    elif zain=='6':
     	exit.sys()
+    elif zain=='3':
+	
     else:
     	print("Dear Please Choose Correctly")
     Update()
