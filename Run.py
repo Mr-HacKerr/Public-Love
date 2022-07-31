@@ -18,6 +18,7 @@ def banner():
 \033[1;96m(!) Author   : MUHAMMAD ZAIN 
 (!) Guthub   : Mr-HacKerr 
 (!) Type     : FREE
+(!) Tool Was Made By M.Zain(Mr-Hacker) On the Based Of Public Love
 \033[1;32m(!)========================================""")
 def Update():
     banner()
